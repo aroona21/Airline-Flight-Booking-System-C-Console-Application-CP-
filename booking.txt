@@ -1,0 +1,9 @@
+Booking Details:
+Email: momina.ali248@gmail.com
+Flight Type: One-way
+Destination: ISB ----to----- IST
+Departure Date: 21/02/2025
+Number of Seats: 2
+Seat Type: Economy
+Meal Preference: Default
+Total Fare: Rs 171925.00

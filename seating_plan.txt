@@ -1,0 +1,11 @@
+
+Updated Seating Plan:
+Row  1: O X X O O O O O O 
+Row  2: O O O O O O O O O 
+Row  3: O O O O O O O O O 
+Row  4: O O O O O O O O O 
+Row  5: O O O O O O O O O 
+Row  6: O O O O O O O O O 
+Row  7: O O O O O O O O O 
+Row  8: O O O O O O O O O 
+Row  9: O O O O O O O O O 
